@@ -3,16 +3,18 @@
 </div>
 
 <div align = "center"><h1>Hi, I’m @WilliamMiguel 👋😁</h1></div>
-<div><h2>👀 I’m interested in...</h2> 
-  <ul align ="center">🤖IA</ul>
-    <ul align = "center">👨‍💻Backend Web Development</ul>
-    <ul align = "center">📖Reformed Theology</ul>
- </div>
+<h2>👀 I’m interested in...</h2>
+  <p align = "center">🤖IA</p>
+  <p align = "center">👨‍💻Backend Web Development</p>
+  <p align = "center">📖Reformed Theology</p>
 
-- 
-- 👓 I’m currently learning 🐍Python, 🧮🗃MySQL
-- 
-- 📫 Lets' connect:
+<h2>👓 I’m currently learning </h2>
+  <p align = "center">🐍Python</p>
+  <p align = "center">🧮🗃MySQL</p>
+ 
+<h2>📫 Lets' connect</h2>
+  <p align = "center"> Correo: william.vilcah@outlook.com</p>
+  <p align = "center"> Linkedin: linkedin.com/in/william-vilca</p>
 
 <!---
 WilliamMiguel/WilliamMiguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
