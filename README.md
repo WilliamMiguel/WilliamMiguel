@@ -13,7 +13,7 @@
   <p align = "center">🧮🗃MySQL</p>
  
 <h2>📫 Lets' connect</h2>
-  <p align = "center"> Correo: william.vilcah@outlook.com</p>
+  <p align = "center"> Outlook: william.vilcah@outlook.com</p>
   <p align = "center"> Linkedin: linkedin.com/in/william-vilca</p>
 
 <!---
