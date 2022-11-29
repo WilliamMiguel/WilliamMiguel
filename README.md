@@ -36,22 +36,15 @@
 
 <h1>My Github Stats</h1>
 <p>
-<a href="">
-  <img width = "49.5%" src = "https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark%hide_border=true">
+<a href="https://github.com/WilliamMiguel?tab=repositories">
+  <img width = "40%" src = "https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark&hide_border=true"/>
+  <img width = "40%" src = "https://github-readme-streak-stats.herokuapp.com/?user=WilliamMiguel&theme=dark&hide_border=true"/>
 </a>
-
-
 </p>
-
-[![William Miguel's github stats](https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark)](https://github.com/WilliamMiguel?tab=repositories)
 
 <h1>Top Langs</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMiguel&layout=compact&langs_count=3&theme=dark)](https://github.com/WilliamMiguel)
-
-<h1>My contribution streak</h1>
-
-[![Otros stats](https://github-readme-streak-stats.herokuapp.com/?user=WilliamMiguel&theme=dark)]((https://github.com/WilliamMiguel?tab=repositories))
 
 </div>
 
