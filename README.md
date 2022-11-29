@@ -33,19 +33,18 @@
 
 
 <div align = "center">
-
 <h1>My Github Stats</h1>
 <p>
 <a href="https://github.com/WilliamMiguel?tab=repositories">
-  <img width = "40%" src = "https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark&hide_border=true"/>
-  <img width = "40%" src = "https://github-readme-streak-stats.herokuapp.com/?user=WilliamMiguel&theme=dark&hide_border=true"/>
+  <img width = "49%" src = "https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark&hide_border=true"/>
+  <img width = "49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=WilliamMiguel&theme=dark&hide_border=true"/>
 </a>
 </p>
-
-<h1>Top Langs</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMiguel&layout=compact&langs_count=3&theme=dark)](https://github.com/WilliamMiguel)
-
+<p>
+<a href="https://github.com/WilliamMiguel?tab=repositories">
+  <img width ="49%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMiguel&layout=compact&langs_count=3&theme=dark&hide_border=true"/>
+</a>
+</p>
 </div>
 
 
