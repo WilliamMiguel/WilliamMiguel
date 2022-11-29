@@ -12,6 +12,8 @@
 - I love programming, artificial intelligence an trekking
 </div>
 
+## <img src = "https://media1.giphy.com/media/jz5cTkM8m9oeXZaL4k/giphy.gif?cid=ecf05e47jgx1ydcubljbyzvda2rdt9q5gnhlomp4w163go3a&rid=giphy.gif&ct=s" width = "25"><b>  Listen to music with me</b>
+
 <p align = "center">
 <a href = "https://spotify-github-profile.vercel.app/api/view?uid=31yhbaj3f6mttiskk6rf7g2karby&redirect=true">
 <img src = "https://spotify-github-profile.vercel.app/api/view?uid=31yhbaj3f6mttiskk6rf7g2karby&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false">
@@ -31,6 +33,12 @@
  
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
+
+<div align = "center">
+<a href = "linkedin.com/in/william-vilca"><img src = "https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+</div>
+
+
   <p align = "center"> Outlook: william.vilcah@outlook.com</p>
   <p align = "center"> Linkedin: linkedin.com/in/william-vilca</p>
 
@@ -47,6 +55,12 @@
 
 
 <h2>Tech Stack</h2>
+
+<p>
+
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width = "40" />
+
+</p>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
