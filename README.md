@@ -27,22 +27,15 @@
   <p align = "center"> Linkedin: linkedin.com/in/william-vilca</p>
 
 
-<br>
-
-
 <div align = "center">
 
 <h1>My Github Stats</h1>
 
 [![William Miguel's github stats](https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark)](https://github.com/WilliamMiguel?tab=repositories)
 
-<br>
-
 <h1>Top Langs</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMiguel&layout=compact&langs_count=3&theme=dark)](https://github.com/WilliamMiguel)
-
-<br>
 
 <h1>My contribution streak</h1>
 
