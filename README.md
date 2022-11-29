@@ -11,6 +11,18 @@
 - I'm a Mechanical - Electrical Engineer
 - I love programming, artificial intelligence an trekking
 </div>
+<br>
+
+
+<p align = "center">
+<a href = "https://spotify-github-profile.vercel.app/api/view?uid=31yhbaj3f6mttiskk6rf7g2karby&redirect=true">
+<img src = "https://spotify-github-profile.vercel.app/api/view?uid=31yhbaj3f6mttiskk6rf7g2karby&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false">
+</a>
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
+
+
 
 <h2>👀 I’m interested in...</h2>
   <p align = "center">🤖IA</p>
@@ -19,27 +31,23 @@
 
 
  
-<h2>📫 Lets' connect</h2>
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
   <p align = "center"> Outlook: william.vilcah@outlook.com</p>
   <p align = "center"> Linkedin: linkedin.com/in/william-vilca</p>
 
 
-<div align = "center">
-<h1>My Github Stats</h1>
-<p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+<p align = "center">
 <a href="https://github.com/WilliamMiguel?tab=repositories">
   <img width = "49%" src = "https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark&hide_border=true"/>
   <img width = "49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=WilliamMiguel&theme=dark&hide_border=true"/>
-</a>
-</p>
-<p>
-<a href="https://github.com/WilliamMiguel?tab=repositories">
   <img width ="49%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMiguel&layout=compact&langs_count=3&theme=dark&hide_border=true"/>
 </a>
 </p>
-</div>
 
-<div>
+
 <h2>Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
