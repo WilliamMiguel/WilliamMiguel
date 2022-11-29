@@ -12,6 +12,11 @@
 - I love programming, artificial intelligence an trekking
 </div>
 
+<div>
+<h2>Tech Stack</h2>
+
+
+</div>
 
 <h2>👀 I’m interested in...</h2>
   <p align = "center">🤖IA</p>
@@ -30,6 +35,13 @@
 <div align = "center">
 
 <h1>My Github Stats</h1>
+<p>
+<a href="">
+  <img width = "49.5%" src = "https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark%hide_border=true">
+</a>
+
+
+</p>
 
 [![William Miguel's github stats](https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark)](https://github.com/WilliamMiguel?tab=repositories)
 
