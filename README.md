@@ -8,8 +8,8 @@
 
 <div>
 
-I'm a Mechanical - Electrical Engineer
-
+- I'm a Mechanical - Electrical Engineer
+- I love programming, artificial intelligence an trekking
 </div>
 
 
@@ -28,12 +28,25 @@ I'm a Mechanical - Electrical Engineer
 
 
 <br>
+
+
 <div align = "center">
 
-![William Miguel's github stats](https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&theme=dark)
+<h1>My Github Stats</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMiguel&layout=compact&langs_count=3&theme=dark)
+[![William Miguel's github stats](https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark)](https://github.com/WilliamMiguel?tab=repositories)
 
+<br>
+
+<h1>Top Langs</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMiguel&layout=compact&langs_count=3&theme=dark)](https://github.com/WilliamMiguel)
+
+<br>
+
+<h1>My contribution streak</h1>
+
+[![Otros stats](https://github-readme-streak-stats.herokuapp.com/?user=WilliamMiguel&theme=dark)]((https://github.com/WilliamMiguel?tab=repositories))
 
 </div>
 
