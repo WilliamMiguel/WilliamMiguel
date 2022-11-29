@@ -11,8 +11,6 @@
 - I'm a Mechanical - Electrical Engineer
 - I love programming, artificial intelligence an trekking
 </div>
-<br>
-
 
 <p align = "center">
 <a href = "https://spotify-github-profile.vercel.app/api/view?uid=31yhbaj3f6mttiskk6rf7g2karby&redirect=true">
