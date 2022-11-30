@@ -25,8 +25,9 @@
 <p>
 <img src="https://img.shields.io/badge/-Python-1A5276?style=flat&logo=python&logoColor=white" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">&nbsp;
-<img src="https://img.shields.io/badge/MySQL-2980B9?style=flat&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
 <img src="https://img.shields.io/badge/-Django-0E6655?style=flat&logo=django&logoColor=white" alt="Django">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-2980B9?style=flat&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-0E6655?style=flat&logo=mongodb&logoColor=white" alt="MongoDb">&nbsp;
 <img src="https://img.shields.io/badge/-HTML-D35400?style=flat&logo=HTML5&logoColor=white" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-2734BB?style=flat&logo=CSS3&logoColor=white" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-Bootstrap-8E44AD?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;
