@@ -12,7 +12,7 @@
 - I love programming, artificial intelligence an trekking
 </div>
 
-## <img src = "https://media1.giphy.com/media/jz5cTkM8m9oeXZaL4k/giphy.gif?cid=ecf05e47jgx1ydcubljbyzvda2rdt9q5gnhlomp4w163go3a&rid=giphy.gif&ct=s" width = "25"><b>  Listen to music with me</b>
+## <img src = "https://media1.giphy.com/media/jz5cTkM8m9oeXZaL4k/giphy.gif?cid=ecf05e47jgx1ydcubljbyzvda2rdt9q5gnhlomp4w163go3a&rid=giphy.gif&ct=s" width = "25"><b>  Let's listen to music</b>
 
 <p align = "center">
 <a href = "https://spotify-github-profile.vercel.app/api/view?uid=31yhbaj3f6mttiskk6rf7g2karby&redirect=true">
@@ -35,7 +35,7 @@
 <br>
 
 <div align = "center">
-<a href = "linkedin.com/in/william-vilca"><img src = "https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+<a href = "https://www.linkedin.com/in/william-vilca"><img src = "https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
 </div>
 
 
@@ -44,7 +44,6 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 <p align = "center">
 <a href="https://github.com/WilliamMiguel?tab=repositories">
   <img width = "49%" src = "https://github-readme-stats.vercel.app/api?username=WilliamMiguel&show_icons=true&icon_color=FFFFFF&theme=dark&hide_border=true"/>
@@ -59,6 +58,30 @@
 <p>
 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width = "40" />
+
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
+
+<img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+
+<img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+
+<img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+
+<img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+
+<img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+
+<img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+
+<img width="15%" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23FF6F00.svg?logo=mysql&logoColor=white"></a>
+
+
 
 </p>
 
