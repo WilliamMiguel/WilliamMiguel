@@ -22,6 +22,20 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
+<p>
+<img src="https://img.shields.io/badge/-Python-1A5276?style=flat&logo=python&logoColor=white" alt="Python">&nbsp;
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-2980B9?style=flat&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+<img src="https://img.shields.io/badge/-Django-0E6655?style=flat&logo=django&logoColor=white" alt="Django">&nbsp;
+<img src="https://img.shields.io/badge/-HTML-D35400?style=flat&logo=HTML5&logoColor=white" alt="HTML">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-2734BB?style=flat&logo=CSS3&logoColor=white" alt="CSS">&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-8E44AD?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;
+<img src="https://img.shields.io/badge/-JSON-212F3D?style=flat&logo=json&logoColor=white" alt="JSON">&nbsp;
+<img src="https://img.shields.io/badge/-Git-EB0303?style=flat&logo=git&logoColor=white" alt="Git">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-B400F9?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
+<img src="https://img.shields.io/badge/-Markdown-4361B4?style=flat&logo=markdown&logoColor=white" alt="Markdown">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0a66c2?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">&nbsp;
+</p>
 
 
 <h2>👀 I’m interested in...</h2>
@@ -29,18 +43,13 @@
   <p align = "center">👨‍💻Backend Web Development</p>
   <p align = "center">📖Reformed Theology</p>
 
-
- 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
 <div align = "center">
 <a href = "https://www.linkedin.com/in/william-vilca"><img src = "https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
 </div>
-
-
   <p align = "center"> Outlook: william.vilcah@outlook.com</p>
-  <p align = "center"> Linkedin: linkedin.com/in/william-vilca</p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -51,57 +60,3 @@
   <img width ="49%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMiguel&layout=compact&langs_count=3&theme=dark&hide_border=true"/>
 </a>
 </p>
-
-
-<h2>Tech Stack</h2>
-
-<p>
-
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width = "40" />
-
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
-
-<img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
-
-<img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-
-<img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
-
-<img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-
-<img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-
-<img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-
-<img width="15%" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23FF6F00.svg?logo=mysql&logoColor=white"></a>
-
-
-
-</p>
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-</div>
-
-<!---
-WilliamMiguel/WilliamMiguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
