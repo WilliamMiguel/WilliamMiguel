@@ -9,7 +9,7 @@
 <div>
 
 - I'm a Mechanical - Electrical Engineer
-- I love programming, artificial intelligence an trekking
+- I love programming, artificial intelligence and trekking
 </div>
 
 ## <img src = "https://media1.giphy.com/media/jz5cTkM8m9oeXZaL4k/giphy.gif?cid=ecf05e47jgx1ydcubljbyzvda2rdt9q5gnhlomp4w163go3a&rid=giphy.gif&ct=s" width = "25"><b>  Let's listen to music</b>
