@@ -7,18 +7,12 @@
 <div align = "center"><h1><b>Hi, I’m William Vilca <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></b></h1></div>
 
 <div>
-
+  
+- I'm a Backend and Frontend Developer
 - I'm a Mechanical - Electrical Engineer
-- I love programming, artificial intelligence and trekking
+
 </div>
 
-## <img src = "https://media1.giphy.com/media/jz5cTkM8m9oeXZaL4k/giphy.gif?cid=ecf05e47jgx1ydcubljbyzvda2rdt9q5gnhlomp4w163go3a&rid=giphy.gif&ct=s" width = "25"><b>  Let's listen to music</b>
-
-<p align = "center">
-<a href = "https://spotify-github-profile.vercel.app/api/view?uid=31yhbaj3f6mttiskk6rf7g2karby&redirect=true">
-<img src = "https://spotify-github-profile.vercel.app/api/view?uid=31yhbaj3f6mttiskk6rf7g2karby&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false">
-</a>
-</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
@@ -26,11 +20,11 @@
 <img src="https://img.shields.io/badge/-Python-1A5276?style=flat&logo=python&logoColor=white" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">&nbsp;
 <img src="https://img.shields.io/badge/-Django-0E6655?style=flat&logo=django&logoColor=white" alt="Django">&nbsp;
-<img src="https://img.shields.io/badge/MySQL-2980B9?style=flat&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-2980B9?style=flat&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-0E6655?style=flat&logo=mongodb&logoColor=white" alt="MongoDb">&nbsp;
 <img src="https://img.shields.io/badge/-HTML-D35400?style=flat&logo=HTML5&logoColor=white" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-2734BB?style=flat&logo=CSS3&logoColor=white" alt="CSS">&nbsp;
-<img src="https://img.shields.io/badge/-Bootstrap-8E44AD?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;
+<img src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">&nbsp;
 <img src="https://img.shields.io/badge/-JSON-212F3D?style=flat&logo=json&logoColor=white" alt="JSON">&nbsp;
 <img src="https://img.shields.io/badge/-Git-EB0303?style=flat&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-B400F9?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
